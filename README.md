@@ -1,4 +1,4 @@
-# Karnataka-Primary-Education-Analysis
+# Karnataka-Primary-Education-Exploratory Data Analysis
 To perform EDA on Karnataka State Primary Education Needs
 # Objective :
 
